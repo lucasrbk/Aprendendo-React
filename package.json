@@ -34,6 +34,6 @@
     "vite": "^6.0.1"
   },
   "homepage": "https://lucasrbk.github.io/Aprendendo-React/",
-  "predeploy": "npm run dev",
+  "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
